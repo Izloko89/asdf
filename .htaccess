@@ -1,0 +1,2 @@
+AuthName "asdf"
+AuthUserFile "/home/inter/.htpasswds/public_html/asdf/passwd"
